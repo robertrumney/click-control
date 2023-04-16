@@ -2,7 +2,7 @@
 
 Note that you should replace Example, HandleClick, and HandleDoubleClick with your own class and method names.
 
-```
+```csharp
 using UnityEngine;
 using UnityEngine.Events;
 
